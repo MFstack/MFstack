@@ -9,7 +9,7 @@
 * 🎓 BSc Computer Science — **Leeds Beckett University**
 * 📊 Building ML-driven tools, especially in **portfolio optimization** & **algorithmic analysis**
 * 🤖 Interested in AI, data engineering, SDN networks, algorithmic trading & cloud
-* 💼 Preparing for ML engineer roles (e.g., **Thmanyah**) & applying to **Saudi Aramco** tech programs
+* 💼 Preparing for ML engineer and data focused roles  & applying to tech programs
 * 📈 Passionate about using data to drive decisions and solve real-world problems
 * 🔧 Coding in **Python**, **C++**, **C#**, and working with APIs + ML frameworks
 
